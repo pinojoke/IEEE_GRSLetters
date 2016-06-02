@@ -1,4 +1,4 @@
-# IEEE_GRSLetters
+# "Performance of compressive sensing image reconstruction for search and rescue" image database
 
 Image data set used for paper "Performance of compressive sensing image reconstruction for search and rescue" submitted to IEEE Geoscience and Remote Sensing Letters [if accepted the correct citation goes here].
 
